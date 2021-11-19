@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    text-align: center;
+    background-image: linear-gradient(red, yellow, aqua);
+}
+h1 {
+    color: black;
+}
+img {
+    float: left;
+    margin: 5px;
+    height: 350px;
+    width: 550px;
+}
+p {
+    text-align: justify;
+    font-size: 25px;
+}
+
+b {
+    font-size: 25px;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+}
+
+h6 {
+    color: black;
+    font-size: 20px;
+}
